@@ -20,7 +20,7 @@ public class Registration {
         System.out.println("=== Welcome to the Message App ===");
         
         while (!loggedIn) {
-            System.out.println("\n1.Resgister");
+            System.out.println("\n1.Register");
             System.out.println("2.Login");
             System.out.println("Choose an option: ");
             
